@@ -1,5 +1,5 @@
 {
-    "name": "perimeter/cache-bundle",
+    "name": "private-perimeter/cache-bundle",
     "description": "Cache integration for the Memento caching library into Symfony2 and Perimeter API Gateway",
     "keywords":["cache","file","memcache","redis","memento", "api gateway", "perimeter"],
     "type":"library",
