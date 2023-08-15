@@ -17,8 +17,8 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "symfony/symfony": "2.5.*",
-        "garyr/memento": "~1.0 || ~1.1"
+        "symfony/symfony": "*",
+        "garyr/memento": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "4.1.3"
